@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "746948014000",
+    "firebase_url": "https://geopaw-89c33-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "geopaw-89c33",
+    "storage_bucket": "geopaw-89c33.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746948014000:android:f6863ed3851aa0bdea3075",
+        "android_client_info": {
+          "package_name": "com.example.geopaw_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXS_OwbsWsDFNEl22ClFpyUpTAL57hfv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

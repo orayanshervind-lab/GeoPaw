@@ -1,0 +1,33 @@
+
+
+
+
+
+SERVICE_ACCOUNT_KEY = "serviceAccountKey.json"
+
+
+
+DATABASE_URL = "https://geopaw-89c33-default-rtdb.asia-southeast1.firebasedatabase.app"
+
+
+ANOMALY_THRESHOLD = 0.45
+
+
+MIN_TRAINING_DAYS = 14
+
+
+TRAINING_WINDOW_DAYS = 30
+
+
+
+SIM_BASE_LAT = 6.9271
+SIM_BASE_LNG = 79.8612
+
+
+SIM_POINTS_PER_DAY = 96   
+
+
+ACTIVE_SPEED_THRESHOLD = 0.5
+
+
+HOME_ZONE_RADIUS_M = 200

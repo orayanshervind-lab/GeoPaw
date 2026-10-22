@@ -1,0 +1,4 @@
+firebase-admin
+numpy
+scipy
+scikit-learn
